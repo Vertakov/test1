@@ -8,6 +8,7 @@ using namespace std;
 int main(int argc, char* argv[])
 {
 	cout<<"Hello new visual studio"<<endl;
+	cout<<"Let's do some changes"<<endl;
 	return 0;
 }
 
